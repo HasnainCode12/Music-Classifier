@@ -1,0 +1,10 @@
+Flask
+joblib
+librosa
+numpy
+Pillow
+pydub
+scikit-learn
+soundfile
+audioread
+matplotlib
